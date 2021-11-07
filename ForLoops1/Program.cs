@@ -21,7 +21,7 @@ namespace ForLoops1
              * döngülerin ön önemli özelliği kod tekrarını engellemektir..
                 for(başlangıc; koşul; artimveyazalim)
                 {
-                        tekrar çalışacak komutlar... 
+                        tekrar çalışacak komutlar... d
                 }
 
             önce başlangıçdeğeri set edilir. sonra konşula bakılır. sonra döngü komutları çalıştırılır. sonra artım yapılır. sonra koşula bakılır. sonra döngü komutları çalıştırılır. sonra artım yapılır. sonra koşula bakılır. süreç koşul sağlanana kadar devam eder...
@@ -36,6 +36,14 @@ namespace ForLoops1
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine($"i inin değer {i}");
+            }
+
+
+            int j = 0;
+            for (; j < 5;)
+            {
+                Console.WriteLine($"dönüyoruz... {j + 1}");
+                j++;
             }
 
             Console.ReadKey();
