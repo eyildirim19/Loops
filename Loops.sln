@@ -5,19 +5,23 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoops1", "ForLoops1\ForLoops1.csproj", "{B9587FC7-ADF2-44FC-867A-9C8F80881E3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLops", "WhileLops\WhileLops.csproj", "{D54AE8C9-D7D4-49DE-9783-F2C6AD09BC4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileLops", "WhileLops\WhileLops.csproj", "{D54AE8C9-D7D4-49DE-9783-F2C6AD09BC4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.csproj", "{6AB4B7D0-DE41-4B0E-B1E9-0B32AA4D5E10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhile", "DoWhile\DoWhile.csproj", "{6AB4B7D0-DE41-4B0E-B1E9-0B32AA4D5E10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopsOrnek1", "ForLoopsOrnek1\ForLoopsOrnek1.csproj", "{09059601-AF5A-4D02-93A1-2D9CF93D393A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoopsOrnek1", "ForLoopsOrnek1\ForLoopsOrnek1.csproj", "{09059601-AF5A-4D02-93A1-2D9CF93D393A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsFor_WhileOrnek2", "LoopsFor_WhileOrnek2\LoopsFor_WhileOrnek2.csproj", "{C372E475-265B-4D99-B633-962F99747067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsFor_WhileOrnek2", "LoopsFor_WhileOrnek2\LoopsFor_WhileOrnek2.csproj", "{C372E475-265B-4D99-B633-962F99747067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopsjumpifadeleri", "loopsjumpifadeleri\loopsjumpifadeleri.csproj", "{960F57CE-0744-4DF8-8B98-F84FCA9ECACB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loopsjumpifadeleri", "loopsjumpifadeleri\loopsjumpifadeleri.csproj", "{960F57CE-0744-4DF8-8B98-F84FCA9ECACB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsOrnekContine", "LoopsOrnekContine\LoopsOrnekContine.csproj", "{C0F80864-8FD2-4F90-BFC2-20143A8BFC77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsOrnekContine", "LoopsOrnekContine\LoopsOrnekContine.csproj", "{C0F80864-8FD2-4F90-BFC2-20143A8BFC77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsDoWhileOrnek", "LoopsDoWhileOrnek\LoopsDoWhileOrnek.csproj", "{BF55CCF6-2BCF-4A27-83BD-DE45ACC21A65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsDoWhileOrnek", "LoopsDoWhileOrnek\LoopsDoWhileOrnek.csproj", "{BF55CCF6-2BCF-4A27-83BD-DE45ACC21A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLoginOdev", "UserLoginOdev\UserLoginOdev.csproj", "{EB6F6DC8-08EA-4B8C-BF43-88311980CD1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VizeFinalOdev", "VizeFinalOdev\VizeFinalOdev.csproj", "{33AFA541-5DC2-4560-A775-0105BBEDD312}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{BF55CCF6-2BCF-4A27-83BD-DE45ACC21A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF55CCF6-2BCF-4A27-83BD-DE45ACC21A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF55CCF6-2BCF-4A27-83BD-DE45ACC21A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6F6DC8-08EA-4B8C-BF43-88311980CD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6F6DC8-08EA-4B8C-BF43-88311980CD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6F6DC8-08EA-4B8C-BF43-88311980CD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6F6DC8-08EA-4B8C-BF43-88311980CD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AFA541-5DC2-4560-A775-0105BBEDD312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AFA541-5DC2-4560-A775-0105BBEDD312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AFA541-5DC2-4560-A775-0105BBEDD312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AFA541-5DC2-4560-A775-0105BBEDD312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
