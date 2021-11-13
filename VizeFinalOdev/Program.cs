@@ -8,7 +8,7 @@ namespace VizeFinalOdev
         {
 
             int n = 0;
-            Console.WriteLine("Öğrenci Sayısını Giriniz");
+            Console.WriteLine("Öğrenci Sayısını Giriniz Mi??????");
 
             n = Convert.ToInt32(Console.ReadLine());
 
