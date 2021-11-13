@@ -10,7 +10,7 @@ namespace UserLoginOdev
             int hak = 0;
             do
             {
-                Console.WriteLine("Kullanıcı Adını Giriniz");
+                Console.WriteLine("Kullanıcı Adını Giriniz....");
                 string kadi = Console.ReadLine();
 
                 Console.WriteLine("Şifrenizi Giriniz");
