@@ -12,6 +12,8 @@ namespace VizeFinalOdev
 
             n = Convert.ToInt32(Console.ReadLine());
 
+            // En yük ve EN DÜşük ortalama sahip kullanıcının sırasını ekrana yazdırınız...
+
             float enkOrtalama = 100, enbOrtalama = 0, toplamOrtalama = 0;
             for (int i = 0; i < n; i++)
             {
